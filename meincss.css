@@ -1,0 +1,49 @@
+body {
+	font-family:'Arial';
+}
+
+h1 {
+	font-family:'Arial Black';
+	color: #ff0000;
+	font-size: 3em;
+	background: #F2E6E6;
+	line-height: 150px;
+	margin: 0px 0px 0px 10px;
+	padding-left: 20px;
+}
+
+h2 {
+	color: #000000;
+	font-size: 2em;
+	margin-top: 50px;
+	overflow: hidden;
+}
+
+h3 {
+	color: #00ff00;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
+img {
+	color: #00ff00;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+h4 {
+	font-family:'Arial Black';
+	color: #0000ff;
+	font-size: 1em;
+	background: #F2E6E6;
+	line-height: 150px;
+	margin: 0px 0px 0px 10px;
+	padding-left: 20px;
